@@ -46,4 +46,4 @@ Each `.py` file corresponds to one statistical or data analysis concept:
 Make sure you have Python installed. Install the required packages if needed:
 
 ```bash
-pip install pandas matplotlib seaborn numpy scipy statsmodels
+pip install pandas matplotlib seaborn numpy scipy statsmodels scikit-learn
